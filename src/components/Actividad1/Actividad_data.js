@@ -13,7 +13,7 @@ const data = [
     },
     {
       "right": 0,
-      "answer": "meet"
+      "answer": "dairy"
     },
     {
       "right": 0,
@@ -33,7 +33,7 @@ const data = [
     },
     {
       "right": 0,
-      "answer": "dairy"
+      "answer": "meat"
     },
     {
       "right": 0,
